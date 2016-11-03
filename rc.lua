@@ -323,7 +323,11 @@ for s = 1, screen.count() do
         fsicon, fs.r, fs.h, fs.s, fs.b, separator,
         dnicon, netwidget, upicon, separator,
         volicon, volbar, volwidget, separator,
-        dateicon, datewidget
+        dateicon, datewidget,
+	layoutbox[s],
+	separator,
+	myshutdownlauncher,
+	separator2
     }
 
     local right_layout = wibox.layout.fixed.horizontal()
