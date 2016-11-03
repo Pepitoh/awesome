@@ -2,7 +2,8 @@ awesome
 ==============
 
 This repository contains special configurations files for awesome-wm.
-
+How desktop should look like :
+![alt tag](https://raw.githubusercontent.com/Pepitoh/awesome/master/misc/Capture%20d'%C3%A9cran%20-%2003112016%20-%2023%3A37%3A33.png)
 
 prerequisites
 ==============
